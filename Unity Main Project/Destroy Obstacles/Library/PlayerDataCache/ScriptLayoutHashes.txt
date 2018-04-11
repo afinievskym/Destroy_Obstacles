@@ -183,3 +183,4 @@ a8ed45ab553b07236625df6cc6ac449c Assembly-CSharp.dll:.OVRLint
 5355791da0078869df42b2619d2d4a1c Assembly-CSharp.dll:.OVRGazeEventTrigger
 bf7482d4e5c04288a05506aa4a39c005 Assembly-CSharp.dll:.OVRSliderLabelUpdater
 e1001ff58c2e0db8751abb3c19b93f42 Assembly-CSharp.dll:.Teleporter
+d56860f887bd4cb0acfec64a9f4158aa Assembly-CSharp.dll:.C4
